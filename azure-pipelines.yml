@@ -11,7 +11,7 @@ resources :
   #Required
   - repository : azureSharedTemplates
     type : github
-    endpoint : SpaceGame
+    endpoint : smcfallACR
     name : ILiuACR/shared-azure-pipeline-templates
     branch : master
  
